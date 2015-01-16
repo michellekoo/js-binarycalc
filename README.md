@@ -1,0 +1,1 @@
+A binary conversion calculator JavaScript application that converts positive base ten decimal numbers to binary and positive base two binary numbers to decimal.
